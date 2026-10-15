@@ -43,9 +43,9 @@ pip install numpy pandas matplotlib scipy scikit-learn
 Execute the Python programs individually:
 
 ```bash
-python Question1.py
-python Question2.py
-python Question3.py
+python EECE5644_Q1_solution.py
+python q2_solution.py
+python q3_gaussian_classifier.py
 ```
 
 Ensure that the required datasets are available in the file paths specified within the respective Python programs.
