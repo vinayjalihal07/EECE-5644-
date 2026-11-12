@@ -1,5 +1,4 @@
 """
-EECE5644 Fall 2026 - Assignment 3, Question 1
 MLP approximation of class posteriors + MAP classification, with 10-fold CV model-order selection.
 
 Usage:
