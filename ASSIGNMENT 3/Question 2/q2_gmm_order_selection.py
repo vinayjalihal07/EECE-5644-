@@ -1,5 +1,4 @@
 """
-EECE5644 Fall 2026 - Assignment 3, Question 2
 GMM model-order selection with 10-fold cross-validation (log-likelihood criterion).
 
 Pipeline
