@@ -1,0 +1,10 @@
+{
+  "reps": 100,
+  "folds": 10,
+  "n_init": 5,
+  "reg_covar": 1e-06,
+  "jobs": -1,
+  "seed": 5644,
+  "out": "c:\\Users\\vinay\\Desktop\\ML\\ASSIGNMENT 3\\Question 2\\results_q2",
+  "quick": false
+}
